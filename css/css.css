@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+ 
+body {
+    margin-top: 20px;
+}
+ 
+.game {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+}
+- See more at: http://chalchicha.es/cloud9-ide-github-heroku-configurar-un-entorno-de-desarrollo-en-la-nube-parte-1.html#sthash.vu7Of1TE.dpuf
